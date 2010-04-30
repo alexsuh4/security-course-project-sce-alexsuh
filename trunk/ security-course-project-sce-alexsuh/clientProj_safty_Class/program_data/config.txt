@@ -1,0 +1,3 @@
+database_username root
+database_password root
+database_catalog testDB
